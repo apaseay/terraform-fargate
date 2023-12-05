@@ -29,8 +29,8 @@ Networking session
 
 Container / Deployment
 ======================
-10)Elastic Container Register (ECR)
-11)Create Fargate container (ECS)
+10) Elastic Container Register (ECR)
+11) Create Fargate container (ECS)
 
 
 Terraform Deployment Steps

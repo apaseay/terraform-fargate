@@ -5,7 +5,7 @@ A brief description of what this project does and who it's for
 
 ### 
 <div align="center">
- <img height="800" src="farget-architecture.png" />
+ <img height="500" src="farget-architecture.png" />
 </div>
 
 

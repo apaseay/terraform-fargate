@@ -60,10 +60,6 @@ Terraform Deployment Steps
 ```bash
   terraform destroy --auto-approve
 ```
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
 
 ## Deployment
 
